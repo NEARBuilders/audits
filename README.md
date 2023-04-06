@@ -44,7 +44,7 @@ To-do
 - Pembrock  ✅
     - Blocksec (June 27th, 2021) [https://github.com/PembROCK-Finance/audits/blob/main/2022-07-01 BlockSec Security Audit Report for PembRock Contracts.pdf](https://github.com/PembROCK-Finance/audits/blob/main/2022-07-01%20BlockSec%20Security%20Audit%20Report%20for%20PembRock%20Contracts.pdf)
 - Stader ✅
-    - NEAR Liquid Token [https://www.staderlabs.com/docs/near/StaderLabs_NearX_SmartContract_Audit_by_OSEC2.pdf](https://www.staderlabs.com/docs/near/StaderLabs_NearX_SmartContract_Audit_by_OSEC2.pdf)
+    - OtterSec (September 09, 2022) [https://www.staderlabs.com/docs/near/StaderLabs_NearX_SmartContract_Audit_by_OSEC2.pdf](https://www.staderlabs.com/docs/near/StaderLabs_NearX_SmartContract_Audit_by_OSEC2.pdf)
 - Metapool ✅
     - [https://metapool.gitbook.io/master/security/audit-reports](https://metapool.gitbook.io/master/security/audit-reports)
         - Blocksec (March 1, 2022) [https://370551154-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MkhZe3MGAhTcvTLTzJF-887967055%2Fuploads%2F5dIIpOn4FkJ04xuwzRyu%2FMetaPool_BlockSec_Audit_signed_v1.1.pdf?alt=media&token=d742d1c8-ba7e-4ed9-99dc-fb5dae247e0d](https://370551154-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MkhZe3MGAhTcvTLTzJF-887967055%2Fuploads%2F5dIIpOn4FkJ04xuwzRyu%2FMetaPool_BlockSec_Audit_signed_v1.1.pdf?alt=media&token=d742d1c8-ba7e-4ed9-99dc-fb5dae247e0d)
@@ -64,10 +64,6 @@ To-do
     [https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-1.pdf](https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-1.pdf)
     
     [https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-2.pdf](https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-2.pdf)
-
-- Stader ✅
-
-    - OtterSec (September 09, 2022) [https://www.staderlabs.com/docs/near/StaderLabs_NearX_SmartContract_Audit_by_OSEC2.pdf](https://www.staderlabs.com/docs/near/StaderLabs_NearX_SmartContract_Audit_by_OSEC2.pdf)
     
 
 # Wallets

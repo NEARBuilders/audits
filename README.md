@@ -33,6 +33,9 @@ To-do
 - Octopus Network
 - Rainbow Bridge
 - AstroDAO 👀
+- Proximity Labs ✅
+
+    - OtterSec (May 06, 2022) [https://github.com/NearDeFi/neth/blob/main/audit/near-eth-audit-public.pdf](https://github.com/NearDeFi/neth/blob/main/audit/near-eth-audit-public.pdf)
 
 # DeFi
 
@@ -61,6 +64,10 @@ To-do
     [https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-1.pdf](https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-1.pdf)
     
     [https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-2.pdf](https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-2.pdf)
+
+- Stader ✅
+
+    - OtterSec (September 09, 2022) [https://www.staderlabs.com/docs/near/StaderLabs_NearX_SmartContract_Audit_by_OSEC2.pdf](https://www.staderlabs.com/docs/near/StaderLabs_NearX_SmartContract_Audit_by_OSEC2.pdf)
     
 
 # Wallets
@@ -68,7 +75,7 @@ To-do
 - Meteor Wallet
 - HERE Wallet
     - Liquid Staking [https://docs.herewallet.app/technology-description/readme/security-audit](https://docs.herewallet.app/technology-description/readme/security-audit)
-        - (January 6, 2023) by Ottersec [https://docs.google.com/viewerng/viewer?url=https://herewallet.app/here_wallet_audit.pdf](https://docs.google.com/viewerng/viewer?url=https://herewallet.app/here_wallet_audit.pdf)
+        - (January 6, 2023) by OtterSec [https://docs.google.com/viewerng/viewer?url=https://herewallet.app/here_wallet_audit.pdf](https://docs.google.com/viewerng/viewer?url=https://herewallet.app/here_wallet_audit.pdf)
 - MyNEARWallet
 - [Wallet.near.org](http://Wallet.near.org)
 - NEARFi Wallet
@@ -85,6 +92,12 @@ To-do
 # Gaming
 
 - PlayEmber
+
+# Bridges
+
+- Wormhole ✅
+
+    - OtterSec (August 26, 2022) [https://storage.googleapis.com/wormhole-audits/Wormhole_Near_OtterSec.pdf](https://storage.googleapis.com/wormhole-audits/Wormhole_Near_OtterSec.pdf)
 
 ### 
 

@@ -101,12 +101,13 @@ To-do
 
 ## 🪲 Bug Bounty Programs
 
-|    Protocol    |                                     Bug Bounty Page                                     |
-| :------------: | :-------------------------------------------------------------------------------------: |
-|   Ref finance  |       [Bug Bounty - Ref Finance](https://guide.ref.finance/developers/bug-bounty)       |
-|    SweatCoin   |    [Sweat Economy Bug Bounties - Immunefi](https://immunefi.com/bounty/sweateconomy/)   |
-|  NEAR General  | [Bug Bounty Program For Near - HackenProof](https://hackenproof.com/near/near-protocol) |
-| Stader on NEAR |  [Stader for NEAR Bug Bounties - Immunefi](https://immunefi.com/bounty/staderfornear/)  |
+|    Protocol    |                                    Bug Bounty Page                                    |
+| :------------: | :-----------------------------------------------------------------------------------: |
+|  NEAR General  |       [Bug Bounty Program For Near - HackenProof](https://hackenproof.com/near)       |
+|     Aurora     |     [Buy Bounty Program for Aurora - HackenProof](https://hackenproof.com/aurora)     |
+|   Ref finance  |      [Bug Bounty Ref Finance - ImmuneFi](https://immunefi.com/bounty/reffinance/)     |
+|    SweatCoin   |   [Sweat Economy Bug Bounties - Immunefi](https://immunefi.com/bounty/sweateconomy/)  |
+| Stader on NEAR | [Stader for NEAR Bug Bounties - Immunefi](https://immunefi.com/bounty/staderfornear/) |
 
 ## Known NEAR Auditing Firms
 

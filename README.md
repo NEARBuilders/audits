@@ -56,46 +56,60 @@ To-do
 |                          Stader                          |           ✅          |  OtterSec  | September 09, 2022 |                                                                    | [Click here](https://www.staderlabs.com/docs/near/StaderLabs\_NearX\_SmartContract\_Audit\_by\_OSEC2.pdf)                                                                                                                                                                        |
 |                         Metapool                         |           ✅          |  Blocksec  |    March 1, 2022   |                                                                    | [Click here](https://370551154-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MkhZe3MGAhTcvTLTzJF-887967055%2Fuploads%2F5dIIpOn4FkJ04xuwzRyu%2FMetaPool\_BlockSec\_Audit\_signed\_v1.1.pdf?alt=media\&token=d742d1c8-ba7e-4ed9-99dc-fb5dae247e0d)         |
 |                  Metapool - AuroraStNEAR                 |           ✅          |  BlockSec  |  March 20th, 2022  |                                                                    | [Click here](https://370551154-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MkhZe3MGAhTcvTLTzJF-887967055%2Fuploads%2FXE1zBF4pyaWCoR1zlKwW%2Fmain\_signed.pdf?alt=media\&token=5068e60d-2905-4d4f-a1cb-9d5fa4c607a3)                                    |
-|                         JumpDeFi                         |                      |            |                    |                                                                    |                                                                                                                                                                                                                                                                                  |
-|                       HideYourCash                       |          😡          |            |                    |                                                                    |                                                                                                                                                                                                                                                                                  |
 |                          Orderly                         |          📦          |   Halborn  |                    |                                                                    | 📦                                                                                                                                                                                                                                                                               |
 |                          Orderly                         |           ✅          |   Certik   |   Sep 16th, 2022   |                                                                    | [Click here](https://skynet.certik.com/projects/orderly-network)                                                                                                                                                                                                                 |
 |                       Spin Finance                       |           ✅          |  BlockApex |    July 19, 2022   |                                                                    | [Click here](https://blockapex.io/spin-finance-audit-report/)                                                                                                                                                                                                                    |
 |                      Burrow Finance                      |           ✅          |  BlockSec  |                    |                                                                    | [Click here](https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-1.pdf)                                                                                                                                                                                       |
 |                      Burrow Finance                      |           ✅          |  BlockSec  |                    |                                                                    | [Click here](https://github.com/NearDeFi/burrowland/blob/main/blocksec-audit-signed-2.pdf)                                                                                                                                                                                       |
+|                         JumpDeFi                         |        :eyes:        |            |                    |                                                                    |                                                                                                                                                                                                                                                                                  |
+|                      Jumbo.Exchange                      |        :eyes:        |            |                    |                                                                    |                                                                                                                                                                                                                                                                                  |
+|                       HideYourCash                       |          😡          |            |                    |                                                                    |                                                                                                                                                                                                                                                                                  |
 
 ## Wallets
 
-|                  Protocol                 | Audit stage | Audited By |       Date      |                                         Report                                         |
-| :---------------------------------------: | :---------: | :--------: | :-------------: | :------------------------------------------------------------------------------------: |
-|               Meteor Wallet               |             |            |                 |                                                                                        |
-|                HERE Wallet                |      ✅      |  OtterSec  | January 6, 2023 | [Click here](https://docs.herewallet.app/technology-description/readme/security-audit) |
-|                MyNEARWallet               |             |            |                 |                                                                                        |
-| [Wallet.near.org](http://wallet.near.org) |             |            |                 |                                                                                        |
-|               NEARFi Wallet               |             |            |                 |                                                                                        |
-|               Salmon Wallet               |             |            |                 |                                                                                        |
-|              Welldone Wallet              |             |            |                 |                                                                                        |
-|               Coin98 Wallet               |             |            |                 |                                                                                        |
-|               Metamask Snaps              |             |            |                 |                                                                                        |
+|                  Protocol                 |      Audit stage     | Audited By |       Date      |                                                                                        Report                                                                                        |
+| :---------------------------------------: | :------------------: | :--------: | :-------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|          Sender Wallet - Android          | :white\_check\_mark: |  Slowmist  |  July 15, 2022  |    [Click here](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20Sender%20Wallet%20Android\_en-us.pdf)   |
+|            Sender Wallet - iOS            | :white\_check\_mark: |  Slowmist  |  July 15, 2022  |      [Click here](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20Sender%20Wallet%20iOS\_en-us.pdf)     |
+|     Sender Wallet - Browser Extension     | :white\_check\_mark: |  Slowmist  |   July 6, 2022  | [Click here](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/blockchain-application/SlowMist%20Audit%20Report%20-%20Sender-chrome-extension-wallet\_en-us.pdf) |
+|               Meteor Wallet               |        :eyes:        |            |                 |                                                                                                                                                                                      |
+|         HERE Wallet Liquid Staking        |           ✅          |  OtterSec  | January 6, 2023 |                                                [Click here](https://docs.herewallet.app/technology-description/readme/security-audit)                                                |
+|                MyNEARWallet               |        :eyes:        |            |                 |                                                                                                                                                                                      |
+| [Wallet.near.org](http://wallet.near.org) |                      |            |                 |                                                                                                                                                                                      |
+|               NEARFi Wallet               |        :eyes:        |            |                 |                                                                                                                                                                                      |
+|               Salmon Wallet               |          😡          |            |                 |                                                                                                                                                                                      |
+|              Welldone Wallet              |        :eyes:        |            |                 |                                                                                                                                                                                      |
+|           Nightly Wallet - NEAR           |         :eye         |            |                 |                                                                                                                                                                                      |
+|             Opto Wallet - NEAR            |                      |            |                 |                                                                                                                                                                                      |
+|             Math Wallet - NEAR            |        :eyes:        |            |                 |                                                                                                                                                                                      |
+|                 Narwallets                |        :eyes:        |            |                 |                                                                                                                                                                                      |
+|               Coin98 Wallet               |        :eyes:        |            |                 |                                                                                                                                                                                      |
+|         Metamask Snaps (NEAR Snap)        |          😡          |            |                 |                                                                                                                                                                                      |
+|                Finer Wallet               |        :eyes:        |            |                 |                                                                                                                                                                                      |
+|                xDeFI Wallet               |        :eyes:        |            |                 |                                                                                                                                                                                      |
 
 ## NFT
 
-| Protocol | Audit stage | Audited By | Date | Report |
-| :------: | :---------: | :--------: | :--: | :----: |
-|  FewNFar |             |            |      |        |
-| Mintbase |             |            |      |        |
+|    Protocol   | Audit stage | Audited By | Date | Report |
+| :-----------: | :---------: | :--------: | :--: | :----: |
+|    FewNFar    |    :eyes:   |            |      |        |
+|    Mintbase   |    :eyes:   |            |      |        |
+|    Paras.id   |    :eyes:   |            |      |        |
+| Tradeport.xyz |    :eyes:   |            |      |        |
 
 ## Gaming
 
 |  Protocol | Audit stage | Audited By | Date | Report |
 | :-------: | :---------: | :--------: | :--: | :----: |
-| PlayEmber |             |            |      |        |
+| PlayEmber |    :eyes:   |            |      |        |
 
 ## Bridges
 
-| Protocol | Audit stage | Audited By |       Date      |                                           Report                                          |
-| :------: | :---------: | :--------: | :-------------: | :---------------------------------------------------------------------------------------: |
-| Wormhole |      ✅      |  OtterSec  | August 26, 2022 | [Click here](https://storage.googleapis.com/wormhole-audits/Wormhole\_Near\_OtterSec.pdf) |
+|  Protocol  | Audit stage | Audited By |       Date      |                                           Report                                          |
+| :--------: | :---------: | :--------: | :-------------: | :---------------------------------------------------------------------------------------: |
+|  Wormhole  |      ✅      |  OtterSec  | August 26, 2022 | [Click here](https://storage.googleapis.com/wormhole-audits/Wormhole\_Near\_OtterSec.pdf) |
+|  Allbridge |             |            |                 |                                                                                           |
+| XP.network |             |            |                 |                                                                                           |
 
 ####
 

@@ -64,6 +64,7 @@ To-do
 |                         JumpDeFi                         |        :eyes:        |            |                    |                                                                    |                                                                                                                                                                                                                                                                                  |
 |                      Jumbo.Exchange                      |        :eyes:        |            |                    |                                                                    |                                                                                                                                                                                                                                                                                  |
 |                       HideYourCash                       |          😡          |            |                    |                                                                    |                                                                                                                                                                                                                                                                                  |
+|                         Tonic                            |          ✅           | Veridise  |   February 13 2023 | | [Click Here]() |
 
 ## Wallets
 

@@ -130,7 +130,7 @@ Firms that are known for auditing NEAR dApps & Contracts
 
 |                     Firm                     |                                               Public Audits                                              |
 | :------------------------------------------: | :------------------------------------------------------------------------------------------------------: 
-|         [Veridise](https://veridise.com)     | [Click here](https://veridise.com/audits/)   
+|         [Veridise](https://veridise.com)     | [Click here](https://veridise.com/audits/)   |
 |
 |         [Ottersec](https://osec.io/)         | [Click here](https://ottersec.notion.site/Sampled-Public-Audit-Reports-a296e98838aa4fdb8f3b192663400772) |
 |        [FYEO](https://www.gofyeo.com/)       |                                                                                                          |

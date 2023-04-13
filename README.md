@@ -148,6 +148,7 @@ dont slip up and get added to this list
 ## Exploits
 
 * [Skyward Finance 2022](https://www.halborn.com/blog/post/explained-the-skyward-finance-hack-november-2022)
+* [StaderX on NEAR August 16, 2022](https://blog.staderlabs.com/stader-near-incident-report-08-16-2022-afe077ffd549#:~:text=Stader's%20smart%20contract%20on%20NEAR,corresponding%20%24NEAR%20staked%20against%20it.)
 
 ### Slip Ups
 

@@ -4,7 +4,12 @@
 
 ## Audits
 
-Public Audits in the NEAR Ecosystem. Make a PR to add additional ones, this is a work in progress, got lazy not even close to finishing.
+Public Audits in the NEAR Ecosystem. 
+
+## PR Best Pracice
+Make a PR to add additional audits, bug bounties, vulnerabilities and firms. Make sure to describe the what is being audited not just the project named
+
+Add the audit PDF with the following naming convention year-month-day-firmname-nameofcontractedit.pdf to the [Audit Folder](./Audit/)
 
 To-do
 
@@ -12,7 +17,6 @@ To-do
 * Backup all the audits on Arweave + IPFS and archive all instances of audit on wayback machine
 * Work with ecosystem aggregator like NEAR Horizon to reference audits
 * Compile all the exploits
-* Format all sexy
 * Let projects and NEAR Founders know to make a PR
 * Contact all projects without audits and let them know they can’t be lacking in these streets like that
 * Publish this on BOS

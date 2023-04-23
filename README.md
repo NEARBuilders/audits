@@ -1,28 +1,9 @@
-# README
-
-## NEAR Audit Database
-
-## Audits
+# NEAR Audit Database
 
 Public Audits in the NEAR Ecosystem. 
 
-## PR Best Pracice
-Make a PR to add additional audits, bug bounties, vulnerabilities and firms. Make sure to describe the what is being audited not just the project named
 
-Add the audit PDF with the following naming convention year-month-day-firmname-nameofcontractedit.pdf to the [Audit Folder](./Audit/)
-
-To-do
-
-* Finish finding all audits
-* Backup all the audits on Arweave + IPFS and archive all instances of audit on wayback machine
-* Work with ecosystem aggregator like NEAR Horizon to reference audits
-* Compile all the exploits
-* Let projects and NEAR Founders know to make a PR
-* Contact all projects without audits and let them know they can’t be lacking in these streets like that
-* Publish this on BOS
-* try to get funding for all these unaudited projects from NF or ……. lol
-
-## 🔑 Key
+# 🔑 Key
 
 * ✅ audit public, doesn’t mean no vulnerabilities, and doesn't mean audit has been checked or its been by firm listed below, just that it exists. This also doesn’t mean that an audit was done for all smart contract and dApp functionality.
 * 📦 audit may exist somewhere but private. Or publicly mentioned an audit but the audit isnt public.
@@ -159,3 +140,17 @@ dont slip up and get added to this list
 |                                Description                               |                                          Link                                         |
 | :----------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: |
 | Near Protocol Discloses Wallet Breach That May Have Exposed Private Keys | [Decrypt](https://decrypt.co/106819/near-protocol-wallet-breach-exposed-private-keys) |
+
+
+# To-do
+
+* Finish finding all audits
+* Backup all the audits on Arweave + IPFS and archive all instances of audit on wayback machine
+* Work with ecosystem aggregator like NEAR Horizon to reference audits
+* Compile all the exploits
+* Let projects and NEAR Founders know to make a PR
+* Contact all projects without audits and let them know they can’t be lacking in these streets like that
+* Publish this on BOS
+
+# Contribution Guidelines
+To learn how to contribute to the public repo go to [Contribution Guidelines](contribution.md)

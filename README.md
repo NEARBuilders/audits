@@ -1,3 +1,4 @@
+![](banner.png)
 # NEAR Audit Database
 
 Public Audits in the NEAR Ecosystem. 

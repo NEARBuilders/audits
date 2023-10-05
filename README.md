@@ -110,6 +110,15 @@ Firms that are known for auditing NEAR dApps & Contracts
 |    [Block Security](https://blocksec.com/)   |                                                                                                          |
 |      [Halborn](https://www.halborn.com/)     |                      [Click here](https://github.com/HalbornSecurity/PublicReports)                      |
 
+
+To add into table
+- NEAR Smart Contracts Tools | Kudelski | May 5th, 2023 | https://github.com/NEARFoundation/near-sdk-contract-tools/blob/develop/documents/NEAR%20Contract%20Tools%20-%20Final%20-%2005.05.2023.pdf
+- MetaPool LaunchPad (Katherine Fundraising & Bond Market) | Halborn | May 12th, 2023 | https://github.com/HalbornSecurity/PublicReports/blob/master/NEAR%20Smart%20Contract%20Audits/MetaPool_Katherine_Fundraising_and_Bond_Market_NEAR_Smart_Contract_Security_Audit_Report_Halborn_Final%20.pdf
+- NEAR Genesis Smart Contract | SmartState | May 18th, 2023 | https://smartstate.tech/reports/near-genesis-report-18052023.html
+- NEAR-IBC | BlockSec | September 18th, 2023 | https://github.com/octopus-network/near-ibc/blob/main/auditing/blocksec_near-ibc_v1.0_signed.pdf
+- Aurora FT Connector | Zokyo | June 8th, 2023 | https://www.datocms-assets.com/50156/1689941745-zokyo-near-ft-connector-audit.pdf
+- NEAR Snap | Ottersec | September 12th, 2023 | https://github.com/NEARBuilders/audits/blob/main/Audits/2023-09-12-Ottersec-NEAR_SNAP.pdf
+
 #### Firms That Audits Have Failed to Detect Critical Vulnerabilities
 
 dont slip up and get added to this list

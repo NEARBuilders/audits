@@ -124,6 +124,8 @@ To add into table
 - NEAR-IBC | BlockSec | September 18th, 2023 | https://github.com/octopus-network/near-ibc/blob/main/auditing/blocksec_near-ibc_v1.0_signed.pdf
 - Aurora FT Connector | Zokyo | June 8th, 2023 | https://www.datocms-assets.com/50156/1689941745-zokyo-near-ft-connector-audit.pdf
 - NEAR Snap | Ottersec | September 12th, 2023 | https://github.com/NEARBuilders/audits/blob/main/Audits/2023-09-12-Ottersec-NEAR_SNAP.pdf
+- Potlock Quadratic Funding | Ottersec | Feburary 15th | https://github.com/PotLock/core/blob/main/audits/Potlock-NEAR-Smart-Contracts-Quadratic-Funding-Audit-Ottersec-February-15-2024.pdf
+- Potlock Contracts | Guvenkaya | January 19th | https://github.com/Guvenkaya/public-reports/blob/master/Potlock-NEAR-Rust-Smart-Contract-Security-Assessment.pdf
 
 #### Firms That Audits Have Failed to Detect Critical Vulnerabilities
 

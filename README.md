@@ -114,6 +114,7 @@ Firms that are known for auditing NEAR dApps & Contracts
 | [Chain Security](https://chainsecurity.com/) |                                                                                                          |
 |    [Block Security](https://blocksec.com/)   |                                                                                                          |
 |      [Halborn](https://www.halborn.com/)     |                      [Click here](https://github.com/HalbornSecurity/PublicReports)                      |
+|      [Hacken](https://hacken.io/)            |                      [Click here](https://hacken.io/audits)                      |
 
 
 To add into table

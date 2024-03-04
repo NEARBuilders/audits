@@ -115,7 +115,7 @@ Firms that are known for auditing NEAR dApps & Contracts
 |    [Block Security](https://blocksec.com/)   |                                                                                                          |
 |      [Halborn](https://www.halborn.com/)     |                      [Click here](https://github.com/HalbornSecurity/PublicReports)                      |
 |      [Hacken](https://hacken.io/)            |                      [Click here](https://hacken.io/audits)                      |
-
+|      [Guvenkaya](https://www.guvenkaya.co/)  |                      [Click here](https://github.com/Guvenkaya/public-reports/tree/master)               |
 
 To add into table
 - NEAR Smart Contracts Tools | Kudelski | May 5th, 2023 | https://github.com/NEARFoundation/near-sdk-contract-tools/blob/develop/documents/NEAR%20Contract%20Tools%20-%20Final%20-%2005.05.2023.pdf
@@ -126,6 +126,7 @@ To add into table
 - NEAR Snap | Ottersec | September 12th, 2023 | https://github.com/NEARBuilders/audits/blob/main/Audits/2023-09-12-Ottersec-NEAR_SNAP.pdf
 - Potlock Quadratic Funding | Ottersec | Feburary 15th | https://github.com/PotLock/core/blob/main/audits/Potlock-NEAR-Smart-Contracts-Quadratic-Funding-Audit-Ottersec-February-15-2024.pdf
 - Potlock Contracts | Guvenkaya | January 19th | https://github.com/Guvenkaya/public-reports/blob/master/Potlock-NEAR-Rust-Smart-Contract-Security-Assessment.pdf
+- Sweat Economy Defer Feature | Guvenkaya | January 30 | https://github.com/Guvenkaya/public-reports/blob/master/The-Sweat-Foundation-Ltd-Defer-NEAR-Rust-Smart-Contract-Security-Assessment.pdf
 
 #### Firms That Audits Have Failed to Detect Critical Vulnerabilities
 
